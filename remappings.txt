@@ -1,0 +1,7 @@
+@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+@openzeppelin/contracts-upgradeable/=node_modules/@openzeppelin/contracts-upgradeable/
+@chainlink/policy-management/=packages/policy-management/src/
+@chainlink/cross-chain-identity/=packages/cross-chain-identity/src/
+@chainlink/compliance-token/=packages/compliance-token/src/
+@chainlink/data-connectivity/=packages/data-connectivity/src/
+forge-std/=lib/forge-std/src/
