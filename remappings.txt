@@ -5,3 +5,4 @@
 @chainlink/compliance-token/=packages/compliance-token/src/
 @chainlink/data-connectivity/=packages/data-connectivity/src/
 forge-std/=lib/forge-std/src/
+openzeppelin-solidity/=node_modules/openzeppelin-solidity/
