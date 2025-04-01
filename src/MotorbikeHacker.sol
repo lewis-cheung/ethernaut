@@ -3,6 +3,6 @@ pragma solidity ^0.8.0;
 
 contract MotorbikeHacker {
   function kill() external {
-    selfdestruct(address(0));
+    selfdestruct(payable(tx.origin));
   }
 }
